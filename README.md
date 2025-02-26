@@ -19,7 +19,7 @@ Unlike existing approaches that provide only summary-level scores, SEval-Ex gene
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/seval-ex.git
+   git clone https://github.com/TanguyHsrt/seval-ex
    cd seval-ex
    ```
 
